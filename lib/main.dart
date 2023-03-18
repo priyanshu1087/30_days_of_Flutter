@@ -12,7 +12,8 @@ void main()
 Widget build(BuildContext context){
   return MaterialApp(
     themeMode: ThemeMode.light,
-    theme: ThemeData(primarySwatch:Colors.orange),
+    theme: ThemeData(primarySwatch:Colors.orange,
+   ),
     darkTheme: ThemeData(brightness: Brightness.dark,),
     routes: {
       "/":(context) => LoginPage(),
