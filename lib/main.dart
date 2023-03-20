@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'pages.dart/home_page.dart';
 import 'pages.dart/login_page.dart';
+import 'utils/routes.dart';
 void main()
 {
   runApp(MyApp());
@@ -17,8 +18,8 @@ Widget build(BuildContext context){
     darkTheme: ThemeData(brightness: Brightness.dark,),
     routes: {
       "/":(context) => LoginPage(),
-      "/home":(context) => HomePage(),
-      "/login":(context) => LoginPage(),
+      MyRoutes.homeRoute :(context) => HomePage(),
+      MyRoutes.loginRoute:(context) => LoginPage(),
     },
   );
 }
