@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:flutter_application_2/pages.dart/drawer.dart';
 
 class HomePage extends StatelessWidget{
 
@@ -7,14 +7,14 @@ class HomePage extends StatelessWidget{
   Widget build(BuildContext context){
   return Scaffold(
     appBar:AppBar(
-    title: Text("Vag bokachoda bal"),
+    title: Text("Shopee"),
     ),
     body: Center(
       child:Container(
-        child:Text("It is my day 2 project :) Please give your feedback..... "),
+        child:Text("Wellcome to Shopee "),
         ),
        ),
-       drawer: Drawer(),
+       drawer: Mydrawer(),
   );
 }
 }
