@@ -1,0 +1,68 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "iPhone 14",
+            "desc": "apple iPhone14",
+            "price": 499,
+            "color": "#ff3300",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fimage%2Ftag%2Fiphone-14-pro-max&psig=AOvVaw2wtqULQ3JkRXo0dBoU7l9m&ust=1682692183214000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDQ3veiyv4CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 2,
+            "name": " apple iPhone 14 pro",
+            "desc": "iPhone 14 Pro ",
+            "price": 549,
+            "color": "#ffe066",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.legacygeek.com%2Fdownload-iphone-14-pro-wallpaper%2F&psig=AOvVaw3B_uF90NjdIF2V5myi2Q-z&ust=1682697582511000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCrloa3yv4CFQAAAAAdAAAAABAR"
+        },
+        {
+            "id": 3,
+            "name": "iPhone 14 pro max",
+            "desc": "apple iPhone 14 Pro max",
+            "price": 599,
+            "color": "#3385ff",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fimage%2Ftag%2Fiphone-14-pro-max&psig=AOvVaw2uCmnskjE6OJhO6TGIynst&ust=1682697629221000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDorZy3yv4CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 4,
+            "name": "macbook Pro m1",
+            "desc": "apple macbook Pro m1",
+            "price": 899,
+            "color": "#ffcc00",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pixelsquid.com%2Fpng%2Fapple-macbook-pro-14-inch-space-grey-2776274800723629961&psig=AOvVaw06a4587QKM9Hp7QxJbRNJE&ust=1682697705800000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICn7sC3yv4CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 5,
+            "name": "macbook Pro m2",
+            "desc": "apple macbook Pro m2",
+            "price": 999,
+            "color": "#cccccc",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2F9to5mac.com%2F2021%2F10%2F18%2Fdownload-the-new-2021-macbook-pro-wallpapers-right-here%2F&psig=AOvVaw06a4587QKM9Hp7QxJbRNJE&ust=1682697705800000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICn7sC3yv4CFQAAAAAdAAAAABAJ"
+        },
+        {
+            "id": 6,
+            "name": "macbook air",
+            "desc": "apple macbook air",
+            "price": 799,
+            "color": "#ffffff",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pixelsquid.com%2Fpng%2Fapple-macbook-air-silver-2505990115323549198&psig=AOvVaw3qspNAzym9u7YYyK4yoxZU&ust=1682697792897000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCLqOq3yv4CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 7,
+            "name": "Airpods",
+            "desc": "apple Airpods",
+            "price": 199,
+            "color": "#ffffff",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FThmxwJR_apple-airpods-png-png-download-apple-airpods-transparent%2F&psig=AOvVaw16RqAAZIfqKblhiVpl3n6O&ust=1682697847301000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjPw4S4yv4CFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 8,
+            "name": "mac mini",
+            "desc": "apple mac mini",
+            "price": 649,
+            "color": " #d9d9d9",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pixelsquid.com%2Fpng%2Fapple-mac-mini-1023190217428833750&psig=AOvVaw3azw_38wrLC4HKlANJg91S&ust=1682697886620000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLj2_Za4yv4CFQAAAAAdAAAAABAE"
+        }
+    ]
+}
