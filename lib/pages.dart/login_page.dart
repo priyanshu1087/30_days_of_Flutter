@@ -89,7 +89,7 @@ class _LoginPageState extends State<LoginPage> {
                  
                
                // Alignment: Alignment.center,
-                child: changedButton? Icon(Icons.done, color : Colors.white,) :Text("Login",textAlign:TextAlign.center ,style: TextStyle(color: Colors.white,fontWeight:FontWeight.bold, fontSize:19,)),
+                child: changedButton? Icon(Icons.done, color : Colors.white,) :Text("Login", textAlign:TextAlign.center ,style: TextStyle(color: Colors.white,fontWeight:FontWeight.bold, fontSize:19,)),
                
               ),
                     ),
