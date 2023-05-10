@@ -31,7 +31,7 @@ class _LoginPageState extends State<LoginPage> {
         children: [
           Image.asset("assets/images/login.png",fit:BoxFit.cover),
           SizedBox(
-            height: 20.0, child:  Text("aa ja saale"),
+            height: 20.0, child:  Text("................................"),
           ),
           Text("Wellcome $name",style: TextStyle(fontSize: 27,fontWeight:FontWeight.bold ),),
           SizedBox(height: 20.0,),
@@ -43,7 +43,7 @@ class _LoginPageState extends State<LoginPage> {
               decoration: InputDecoration(
                 hintText: "Enter username",
                 labelText: "Username",
-             //  OnChanged : ((value) {
+             //  OnChanged : ((value)
               //  name= value;
               //  setState(() {});
             //  },
